@@ -25,7 +25,7 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/prabhatthakuryt/Hotel-Reservation-System.git
+   git https://github.com/MdJisanAlam/Hotel_Reservation clone 
 
 2. Configure your MySQL database settings in the HotelReservationSystem.java file:
    ```
@@ -47,4 +47,4 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 ### Acknowledgments 🙏
 - Special thanks to all contributors and supporters of the Hotel Reservation System project.
 
-### Happy booking! 🌆
+### FAST HOTEL Booking ! 🏨🛌
